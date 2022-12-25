@@ -1,4 +1,4 @@
-# React-NodeJS-Movies-App
+# React-NodeJS-MongoDB-Movies-App
 
 React NodeJS Movies App.
 
